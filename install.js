@@ -32,7 +32,7 @@ module.exports = {
       ],
         "dir": "app/models"
       }
-    }
+    },
     // Delete this step if your project does not use torch
     {
       method: "script.start",
